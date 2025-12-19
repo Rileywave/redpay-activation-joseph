@@ -44,9 +44,9 @@ const VerificationDetails = () => {
   };
 
   const accountDetails = {
-    accountNumber: "6488400047",
+    accountNumber: "8151889909",
     accountName: "NNANNA JOSEPH",
-    bank: "Moniepoint MFB",
+    bank: "Palmpay Limited",
     amount: "14,900",
   };
 
