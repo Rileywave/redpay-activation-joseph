@@ -46,7 +46,7 @@ const VerificationDetails = () => {
   const accountDetails = {
     accountNumber: "8151889909",
     accountName: "NNANNA JOSEPH",
-    bank: "Nombank Microfinance Bank",
+    bank: "Palmpay Limited",
     amount: "14,900",
   };
 
