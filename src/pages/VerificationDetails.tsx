@@ -44,9 +44,9 @@ const VerificationDetails = () => {
   };
 
   const accountDetails = {
-    accountNumber: "8151889909",
-    accountName: "NNANNA JOSEPH",
-    bank: "Palmpay Limited",
+    accountNumber: "6534338917",
+    accountName: "UZOMBAH WISDOM GINIKACHI",
+    bank: "Moniepoint MFB",
     amount: "14,900",
   };
 
