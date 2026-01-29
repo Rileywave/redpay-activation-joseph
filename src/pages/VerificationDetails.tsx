@@ -44,9 +44,9 @@ const VerificationDetails = () => {
   };
 
   const accountDetails = {
-    accountNumber: "6534338917",
-    accountName: "UZOMBAH WISDOM GINIKACHI",
-    bank: "Moniepoint MFB",
+    accountNumber: "0051857178",
+    accountName: "NNANNA JOSEPH",
+    bank: "PAGA",
     amount: "14,900",
   };
 
